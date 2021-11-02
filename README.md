@@ -1,6 +1,6 @@
 # Supervised Machine Learning - Predicting Credit Risk
 
-A machine learning model that attempts to predict whether a loan from LendingClub will become high risk or not. 
+A machine learning model that attempts to predict whether a loan from LendingClub will become high risk or not using Logistic Regression and Random Forest classifiers. 
 
 ## Background
 
