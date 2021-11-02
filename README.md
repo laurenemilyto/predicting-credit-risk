@@ -1,6 +1,6 @@
 # Supervised Machine Learning - Predicting Credit Risk
 
-Built a machine learning model that attempts to predict whether a loan from LendingClub will become high risk or not. 
+A machine learning model that attempts to predict whether a loan from LendingClub will become high risk or not. 
 
 ## Background
 
@@ -29,9 +29,6 @@ Used `StandardScaler` to scale the training and testing sets.
 Before re-fitting the LogisticRegression and RandomForestClassifier models on the scaled data, make another prediction about how you think scaling will affect the accuracy of the models. Write your predictions down and provide justification.
 
 Fit and score the LogisticRegression and RandomForestClassifier models on the scaled data. 
-
-How do the model scores compare to each other, and to the previous results on unscaled data? How does this compare to your prediction? Write down your results and thoughts.
-
 
 ### Data Source
 
